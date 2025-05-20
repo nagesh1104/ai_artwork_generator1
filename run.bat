@@ -1,0 +1,3 @@
+@echo off
+echo Starting AI Art Generator...
+python manage.py runserver
